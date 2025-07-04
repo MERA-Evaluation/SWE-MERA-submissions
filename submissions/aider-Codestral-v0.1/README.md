@@ -17,3 +17,5 @@ This repository provides a straightforward setup for evaluating a single LLM mod
 If the model succeeds in an early attempt, it immediately proceeds to the next issue, ensuring efficient evaluation.
 
 *For questions or contributions, please refer to the official [Aider repository](https://github.com/Aider-AI/aider).*
+
+[1] https://github.com/Aider-AI/aider
