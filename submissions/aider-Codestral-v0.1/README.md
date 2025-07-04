@@ -1,4 +1,4 @@
-"## Simple Submissions for Aider+Codestral-v0.1
+Simple Submissions for Aider+Codestral-v0.1
 
 This repository provides a straightforward setup for evaluating a single LLM model using the Aider agentic framework on 728 issue-solving tasks collected between 2024-09-01 and 2025-06-01.
 
@@ -17,5 +17,3 @@ This repository provides a straightforward setup for evaluating a single LLM mod
 If the model succeeds in an early attempt, it immediately proceeds to the next issue, ensuring efficient evaluation.
 
 *For questions or contributions, please refer to the official [Aider repository](https://github.com/Aider-AI/aider).*
-
-[1] https://github.com/Aider-AI/aider
