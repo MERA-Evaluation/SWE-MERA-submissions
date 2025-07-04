@@ -1,0 +1,1 @@
+{"agent": "Aider", "model": "deepseek-r1", "s3_logs": "s3://write_later", "s3_trajectories": "s3://write_later", "s3_metrics": "s3://write_later", "s3_all_preds": "s3://write_later"}
