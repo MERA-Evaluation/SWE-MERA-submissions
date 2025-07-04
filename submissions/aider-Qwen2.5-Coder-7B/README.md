@@ -1,5 +1,4 @@
-" ## 
-Simple Submissions for Aider+Qwen2.5-Coder-7B
+"## Simple Submissions for Aider+Qwen2.5-Coder-7B
 
 This repository provides a straightforward setup for evaluating a single LLM model using the Aider agentic framework on 728 issue-solving tasks collected between 2024-09-01 and 2025-06-01.
 
