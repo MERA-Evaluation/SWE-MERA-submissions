@@ -1,5 +1,7 @@
 # SWE-MERA Evaluation Platform
 
+[![arXiv](https://img.shields.io/badge/arXiv-2507.11059-b31b1b.svg)](https://arxiv.org/abs/2507.11059)
+
 The **SWE-MERA evaluation platform** offers a reproducible and transparent environment for benchmarking software engineering agents. This repository provides all the resources and instructions needed to participate in the evaluation, submit your results, and appear on the public leaderboard.
 
 ## Demo and Leaderboard
@@ -46,7 +48,33 @@ Use this package to evaluate your agent's results before submission.
 
 ## Paper
 
-- **Paper:** Coming soon
+We have presented our paper on EMNLP 2025. Please use this for citation:
+```
+@inproceedings{adamenko-2025-swe,
+    title = "{SWE}-{MERA}: A Dynamic Benchmark for Agenticly Evaluating Large Language Models on Software Engineering Tasks",
+    author = "Adamenko, Pavel and
+      Ivanov, Mikhail  and
+      Valeev, Aidar  and
+      Levichev, Rodion  and
+      Zadorozhny, Pavel  and
+      Lopatin, Ivan  and
+      Babaev, Dmitrii  and
+      Fenogenova, Alena  and
+      Malykh, Valentin",
+    editor = {Habernal, Ivan  and
+      Schulam, Peter  and
+      Tiedemann, J{\"o}rg},
+    booktitle = "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing: System Demonstrations",
+    month = nov,
+    year = "2025",
+    address = "Suzhou, China",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.emnlp-demos.30/",
+    doi = "10.18653/v1/2025.emnlp-demos.30",
+    pages = "440--452",
+    ISBN = "979-8-89176-334-0"
+}
+```
 
 ## Contact & Contributions
 
